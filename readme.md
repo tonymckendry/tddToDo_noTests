@@ -16,10 +16,6 @@ npm start
 
 This will run a development server at http://localhost:3000
 
-### To Login
-
-Use the App's account creation form to sign up
-
 #### Framework
 
 [**Meteor**](https://www.meteor.com/)
